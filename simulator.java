@@ -2,7 +2,7 @@ package Assignments;
 
 import java.util.*; // import library before using
 
-public class practice 
+public class simulator 
 {
 	public static void main (String args[])
 	{
